@@ -1,1 +1,1 @@
-# Labs
+# Repository for Coursera Labs
